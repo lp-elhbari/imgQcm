@@ -1,0 +1,6 @@
+qcm1.exercice.1.png :
+https://github.com/lp-elhbari/imgQcm/blob/main/2.Terminales/0.Math%C3%A9matiques/2.Nombres.d%C3%A9riv%C3%A9s/qcm1.exercice.1.png?raw=true
+
+qcm1.exercice.2.png
+https://github.com/lp-elhbari/imgQcm/blob/main/2.Terminales/0.Math%C3%A9matiques/2.Nombres.d%C3%A9riv%C3%A9s/qcm1.exercice.2.png?raw=true
+
