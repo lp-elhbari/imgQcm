@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<!--Titre du QCM-->
+	<question type="category">
+		<category>
+			<text><![CDATA[<infos><name>TBAC.Maths.Nombres.Derives.et.Fonctions.Derivees</name><answernumbering>123</answernumbering><niveau></niveau><matiere>MATHEMATIQUES</matiere></infos>]]></text>
+		</category>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 1.1]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p style="text-align: center;"><img src="https://github.com/lp-elhbari/imgQcm/blob/main/2.Terminales/0.Mathematiques/3.Fonction.derivee/fonction.derivee.qcm1.exercice1.png?raw=true" alt="Graphique de la fonction f(x)" width="500" /></p>			<p>Déterminer graphiquement le nombre dérivé de la fonction f en -6.</p>			<p><strong>f'(-6) = </strong>{1:SHORTANSWER:=2}</p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>2</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 1.2]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p style="text-align: center;"><img src="https://github.com/lp-elhbari/imgQcm/blob/main/2.Terminales/0.Mathematiques/3.Fonction.derivee/fonction.derivee.qcm1.exercice1.png?raw=true" alt="Graphique de la fonction f(x)" width="500" /></p>			<p>Déterminer f'(3,5) à l'aide de l'équation de sa tangente.</p>			<p>L'équation de la tangente est : <strong>y = -2x + 9,2</strong></p>			<p><strong>f'(3,5) = </strong>{1:SHORTANSWER:=-2}</p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 1.3]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p style="text-align: center;"><img src="https://github.com/lp-elhbari/imgQcm/blob/main/2.Terminales/0.Mathematiques/3.Fonction.derivee/fonction.derivee.qcm1.exercice1.png?raw=true" alt="Graphique de la fonction f(x)" width="500" /></p>			<p>Déterminer f'(2) après avoir tracé sa tangente.</p>			<p>Au point D(2 ; 3,5), la tangente à la courbe est <strong>horizontale</strong>.</p>			<p><strong>f'(2) = </strong>{1:SHORTANSWER:=0}</p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>2</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 1.4]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p style="text-align: center;"><img src="https://github.com/lp-elhbari/imgQcm/blob/main/2.Terminales/0.Mathematiques/3.Fonction.derivee/fonction.derivee.qcm1.exercice1.png?raw=true" alt="Graphique de la fonction f(x)" width="500" /></p>			<p>Déterminer les nombres dérivés f'(-3) et f'(-5) après avoir tracé leurs tangentes.</p>						<p><strong>a) Par quels points passe la tangente au point C(-3 ; 1) ?</strong></p>			<p>La tangente passe par les points C(-3 ; 1) et N(1 ; 1).</p>			<p><em>Rappel : coefficient directeur = (y₂ - y₁)/(x₂ - x₁)</em></p>			<p><strong>f'(-3) = </strong>{1:SHORTANSWER:=-0,75}</p>						<p style="margin-top: 20px;"><strong>b) Par quels points passe la tangente au point B(-5 ; 2,8) ?</strong></p>			<p>La tangente passe par les points B(-5 ; 2,8) et M(1 ; 5).</p>			<p><em>Rappel : coefficient directeur = (y₂ - y₁)/(x₂ - x₁)</em></p>			<p><strong>f'(-5) = </strong>{1:SHORTANSWER:=-0,3} <em>(arrondir à 0,01 près)</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>3</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.1]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de la fonction polynôme <strong>f(x) = 3x + 5</strong></p>			<p><strong>f'(x) = </strong>{1:SHORTANSWER:=3}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.2]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de <strong>g(x) = x² - 4x + 0,75</strong></p>			<p><strong>g'(x) = </strong>{1:SHORTANSWER:=2x-4}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.3]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de <strong>h(x) = -5x² + 1/x</strong></p>			<p><strong>h'(x) = </strong>{1:SHORTANSWER:=-10x-1/x^2}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.4]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de la fonction polynôme <strong>i(x) = x³ + 5x - 1</strong></p>			<p><strong>i'(x) = </strong>{1:SHORTANSWER:=3x^2+5}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.5]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de <strong>j(x) = 12x² - 5/x + 1</strong></p>			<p><strong>j'(x) = </strong>{1:SHORTANSWER:=24x+5/x^2}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.6]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de <strong>k(x) = 3x³ + 2x² + 8x + 2/x</strong></p>			<p><strong>k'(x) = </strong>{1:SHORTANSWER:=9x^2+4x+8-2/x^2}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.7]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de la fonction polynôme <strong>l(x) = x - 1/x</strong></p>			<p><strong>l'(x) = </strong>{1:SHORTANSWER:=1+1/x^2}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.8]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de <strong>m(x) = 12x² - 14x + 2789546,85</strong></p>			<p><strong>m'(x) = </strong>{1:SHORTANSWER:=24x-14}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.9]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de <strong>n(x) = 2x³ - 3x²</strong></p>			<p><strong>n'(x) = </strong>{1:SHORTANSWER:=6x^2-6x}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.10]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de <strong>p(x) = x³ + x² + x + 1 + 1/x</strong></p>			<p><strong>p'(x) = </strong>{1:SHORTANSWER:=3x^2+2x+1-1/x^2}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.11]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de la fonction polynôme <strong>q(x) = 7 - 1/x</strong></p>			<p><strong>q'(x) = </strong>{1:SHORTANSWER:=1/x^2}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+	<question type="cloze">
+		<name>
+			<text><![CDATA[Exercice 2.12]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">			<p>Donner la fonction dérivée de la fonction polynôme <strong>r(x) = x² - 12053</strong></p>			<p><strong>r'(x) = </strong>{1:SHORTANSWER:=2x}</p>			<p><em>Exemple de format attendu : 7x^3+5x^2+3+5/x^2</em></p>			</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+	</question>
+</quiz>
