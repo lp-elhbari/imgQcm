@@ -1,0 +1,9 @@
+qcm1.exercice.1.png :
+https://github.com/lp-elhbari/imgQcm/blob/main/1.Premieres/0.Mathematiques/3.Second.degre/Premieres.Mathematiques.Second-Degre.qcm1.1.png?raw=true
+
+qcm1.exercice.2.png
+https://github.com/lp-elhbari/imgQcm/blob/main/1.Premieres/0.Mathematiques/3.Second.degre/Premieres.Mathematiques.Second-Degre.qcm1.2.png?raw=true
+
+
+qcm1.exercice.3.png
+https://github.com/lp-elhbari/imgQcm/blob/main/1.Premieres/0.Mathematiques/3.Second.degre/Premieres.Mathematiques.Second-Degre.qcm1.3.png?raw=true
